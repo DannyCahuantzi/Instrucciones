@@ -17,11 +17,7 @@ Contar con:
 – Navegador de Internet (Internet Explorer, Firefox, Netscape u otro)
 – Permiso de acceso de parte de la Dirección General de Operación Regional y Contraloría Social (DGORCS) de la Secretaría de Función Pública.
 
-2.- INGRESANDO AL SISTEMA
 
-Dentro de su navegador, teclee la siguiente dirección electrónica:
-http://acceso.portaldeejemplo.gob.mx/sistema/
-Inmediatamente después, el sistema solicitará Usuario y Contraseña, datos que serán proporcionados por la DGORCS a los Enlaces de Contraloría Social.
 
  
 
